@@ -1,4 +1,4 @@
-//contest url : https://codeforces.com/problemset/problem/4/As
+// problem_url : https://codeforces.com/problemset/problem/4/As
 #include<stdio.h>
 int main(void)
 {
