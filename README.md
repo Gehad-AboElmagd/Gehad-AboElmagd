@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gehad-AboElmagd.
-- 👀 I’m interested in computer science and especially those close to computer hardware.
+- 👀 I’m interested in computer science.
 - 🌱 I’m currently learning python programming.
 - 💞️ I’m looking to collaborate on solving real world problems.
 - 📫 How to reach me ... You could reach me via my email address: gehadaboelmagd2000@gmail.com .
